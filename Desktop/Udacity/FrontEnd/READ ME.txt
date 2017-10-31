@@ -1,0 +1,5 @@
+Main html is located in the main folder titled "index.html".
+All .CSS files are located in the folder titled "CSS".
+All affiliated images are located in the IMG folder.
+To run, open index.html.
+To edit right click the html or css file and select your local editor.
